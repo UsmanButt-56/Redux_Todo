@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Ignore home file
-Home
+src/Components/Home/Home.jsx
 
 node_modules
 dist
