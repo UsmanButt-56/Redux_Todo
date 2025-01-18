@@ -7,8 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Ignore home file
-Home
+
 
 node_modules
 dist
