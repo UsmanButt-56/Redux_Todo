@@ -11,6 +11,7 @@ function Navbar() {
           Redux TO-DO App
         </div>
       </div>
+      
     </div>
   );
 }
