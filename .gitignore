@@ -8,7 +8,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Ignore home file
-src/Components/Todo/Todo.jsx
 
 node_modules
 dist
